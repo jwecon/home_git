@@ -5,3 +5,4 @@ I am currently using this file to log my experiences with github.
 here is what is listed as the published url: jwecon.github.io/home_git/
 but the message i get is: 404 File not found 
 The site configured at this address does not contain the requested file.
+The key is patience. After an hour, the revised website loaded.
